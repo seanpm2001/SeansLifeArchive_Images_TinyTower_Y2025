@@ -534,7 +534,36 @@ STAGE UPGRADE
 
 ## 2025, Monday, May 19th
 
-- I skipped my Tiny Tower session again today, due to a lack of available time to dedicate. I was really considering it today, but I have too much going on right now, I prioritized getting progress on my journal done, as it fell a few days behind. I might play after 10:00 pm, however. - 2025, Monday, May 19th
+<!--
+Session notes
+
+Nighttime session
+First session in months
+Good time
+Completing quests
+Customizing my house
+New floor 203, type: service
+Ken Thompson
+Game lagging hard
+Raffle 2x
+!-->
+
+- I originally was going to skip my session today, but ended up playing after 10:00 pm. It was my first session in months, and I had a good time playing. The session lasted about 1 hour, and was a nighttime session.
+- I completed several quests, did several elevator trips, and began construction on my 203rd level (a service level)
+- I worked on a monument today, but did I upgrade the stage on any moments.
+- I did not win any golden tickets this week
+- I did not update the game this week. As far as I know, no updates are available.
+- I used a few VIPs today
+- I started a new airport run today.
+- I did not unlock any new costumes or pets today
+- I upgraded 1 floor today.
+- I found that one of my Bitizens was generated with the name Ken Thompson. This bitizen now has a dream job at the tech store.
+- The game was lagging very hard today while playing.
+- I began to customize my house today, adding furniture to it for the first time.
+- The games daily/weekly quest system was present this week.
+- I eventually wrapped up and quit. I had a good time playing. - 2025, Monday, May 20th
+
+- ~~I skipped my Tiny Tower session again today, due to a lack of available time to dedicate. I was really considering it today, but I have too much going on right now, I prioritized getting progress on my journal done, as it fell a few days behind. I might play after 10:00 pm, however. - 2025, Monday, May 19th~~
 
 ---
 
@@ -554,7 +583,7 @@ STAGE UPGRADE
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2024, Monday, July 15th to 2025, Monday, May 12th
+- No updates were available this week, as far as I know (AFAIK) - 2024, Monday, July 15th to 2025, Monday, May 19th
 
 ---
 
@@ -615,10 +644,11 @@ STAGE UPGRADE
 - I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2024, Monday, December 9th
 - My session was skipped today. - 2024, Monday, December 16th to 2025, Monday, February 10th
 - I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, February 17th to 2025, February 24th
+- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 12th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
+- I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, May 19th
 
 </details>
 
@@ -1069,7 +1099,7 @@ STAGE UPGRADE
 
 - I did not construct any new levels today. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, February 17th
 
-> **As of:** `2025, Monday, December 24th`
+> **As of:** `2025, Monday, February 24th`
 
 - **Residential levels:** `102`
 - **Food levels:** `32`
@@ -1095,7 +1125,16 @@ STAGE UPGRADE
 
 </details>
 
-- My session was skipped today. - 2025, Monday, May 19th
+> **As of:** `2025, Monday, May 19th`
+
+- **Residential levels:** `102`
+- **Food levels:** `32`
+- **Service levels:** `16`
+- **Retail levels:** `28`
+- **Recreational levels:** `11`
+- **Creative levels:** `12`
+- **Lobby levels:** `2`
+- **Overall levels:** `203`
 
 ---
 
@@ -1114,10 +1153,11 @@ STAGE UPGRADE
 - I visited the house today, but didn't do anything here. - 2024, Monday, November 4th to 2024, Monday, December 9th
 - My session was skipped today. - 2024, Monday, December, 16th to 2025, Monday, February 10th
 - I visited the house today, but didn't do anything here. - 2025, Monday, February 17th to 2025, Monday, February 24th
+- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
+- I began to customize my house today, adding furniture to it for the first time. The mechanics of the house are interesting. I added an office chair, a turtle table, and a laptop to it today, just to test it out. - 2025, Monday, May 19th
 
 ---
 
@@ -1135,10 +1175,11 @@ STAGE UPGRADE
 - I visited the airport today, starting a new job for this week. - 2024, Monday, December 9th
 - My session was skipped today. - 2024, Monday, December 16th to 2025, Monday, February 10th
 - I visited the airport today, starting a new job for this week. - 2025, Monday, February 17th to 2025, Monday, February 24th
+- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
+- I visited the airport today, starting a new job for this week. - 2025, Monday, May 19th
 
 ---
 
@@ -1178,10 +1219,11 @@ STAGE UPGRADE
 - My session was skipped again today. It wasn't due to a lack of interest, I just didn't have time. - 2024, Monday, December 23rd to 2025, Monday, February 10th
 - I enjoyed the game a lot more this week. It has its shortcomings nowadays, but it is still true to its core, and I really missed playing. It is a fun game, and I was a bit nostalgic for it today. - 2025, Monday, February 17th
 - I enjoyed the game a little less than last week. - 2025, Monday, February 24th
+- My session was skipped again today. It wasn't due to a lack of interest, I just didn't have time. - 2024, Monday, March 3rd to 2025, Monday, May 12th
 
 </details>
 
-- My session was skipped again today. It wasn't due to a lack of interest, I just didn't have time. - 2024, Monday, March 3rd to 2025, Monday, May 19th
+- I enjoyed the game this week, although I can't compare it to a previous session, as it has been too long. - 2025, Monday, May 19th
 
 ---
 
@@ -1213,10 +1255,11 @@ STAGE UPGRADE
 - My session was skipped again today. - 2025, Monday, January 13th to 2025, Monday, February 10th
 - I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, February 17th
 - I did not work on any monuments today, nor did I upgrade the stage on any of them. - 2025, Monday, February 24th
+- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
+- I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, May 19h
 
 ***
 
@@ -1238,6 +1281,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, May 19th at 03:03 pm PST)`
+- **File version:** `2 (2025, Tuesday, May 20th at 01:54 pm PST)`
 
 ***
