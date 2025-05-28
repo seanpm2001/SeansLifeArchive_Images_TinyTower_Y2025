@@ -567,7 +567,20 @@ Raffle 2x
 
 ## 2025, Monday, May 26th
 
-- I did not play yet today. My game sessions (except for Wednesday and Sunday) have mostly been moved to the nighttime recently. I plan to play later today (after 10:00 pm PST) - 2025, Monday, May 26th
+- I continued gameplay for a second consecutive week, playing between 11:08 pm and 12:21 am. I was able to receive 2 daily bonuses, and 2 days of fireworks.
+- I completed a few quests, did several elevator trips, and began construction on my 204th level (another service level)
+- I worked on a monument today, but did I upgrade the stage on any moments.
+- I did not win any golden tickets this week
+- I did not update the game this week. As far as I know, no updates are available.
+- I used a few VIPs today
+- I started a new airport run today.
+- I did not unlock any new costumes or pets today
+- I did not upgrade any floors today.
+- The game was lagging very hard today while playing.
+- I did not work on my house today.
+- The games daily/weekly quest system was present this week.
+- I eventually wrapped up and quit. I had a good time playing. - 2025, Monday, May 26th
+- ~~I did not play yet today. My game sessions (except for Wednesday and Sunday) have mostly been moved to the nighttime recently. I plan to play later today (after 10:00 pm PST)~~
 
 ---
 
@@ -587,7 +600,7 @@ Raffle 2x
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2024, Monday, July 15th to 2025, Monday, May 19th
+- No updates were available this week, as far as I know (AFAIK) - 2024, Monday, July 15th to 2025, Monday, May 26th
 
 ---
 
@@ -619,7 +632,7 @@ Raffle 2x
 
 </details>
 
-- I didn't do any friend visits today. - 2024, Monday, August 12th to 2025, Monday, May 19th
+- I didn't do any friend visits today. - 2024, Monday, August 12th to 2025, Monday, May 26th
 
 ---
 
@@ -652,7 +665,7 @@ Raffle 2x
 
 </details>
 
-- I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, May 19th
+- I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, May 19th to 2025, Monday, May 26th/2025, Tuesday, May 27th
 
 </details>
 
@@ -1127,8 +1140,6 @@ Raffle 2x
 - My session was skipped today. - 2025, Monday, May 5th
 - My session was skipped today. - 2025, Monday, May 12th
 
-</details>
-
 > **As of:** `2025, Monday, May 19th`
 
 - **Residential levels:** `102`
@@ -1139,6 +1150,23 @@ Raffle 2x
 - **Creative levels:** `12`
 - **Lobby levels:** `2`
 - **Overall levels:** `203`
+
+- I began construction on my 203rd level today, which is a service level. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, May 19th
+
+</details>
+
+> **As of:** `2025, Monday, May 26th`
+
+- **Residential levels:** `102`
+- **Food levels:** `32`
+- **Service levels:** `17`
+- **Retail levels:** `28`
+- **Recreational levels:** `11`
+- **Creative levels:** `12`
+- **Lobby levels:** `2`
+- **Overall levels:** `204`
+
+- I began construction on my 204th level today, which is a service level. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, May 26th
 
 ---
 
@@ -1158,10 +1186,11 @@ Raffle 2x
 - My session was skipped today. - 2024, Monday, December, 16th to 2025, Monday, February 10th
 - I visited the house today, but didn't do anything here. - 2025, Monday, February 17th to 2025, Monday, February 24th
 - My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
+- I began to customize my house today, adding furniture to it for the first time. The mechanics of the house are interesting. I added an office chair, a turtle table, and a laptop to it today, just to test it out. - 2025, Monday, May 19th
 
 </details>
 
-- I began to customize my house today, adding furniture to it for the first time. The mechanics of the house are interesting. I added an office chair, a turtle table, and a laptop to it today, just to test it out. - 2025, Monday, May 19th
+- I visited the house today, but didn't do anything here. - 2025, Monday, May 26th
 
 ---
 
@@ -1183,7 +1212,7 @@ Raffle 2x
 
 </details>
 
-- I visited the airport today, starting a new job for this week. - 2025, Monday, May 19th
+- I visited the airport today, starting a new job for this week. - 2025, Monday, May 19th to 2025, Monday, May 26th
 
 ---
 
@@ -1224,10 +1253,11 @@ Raffle 2x
 - I enjoyed the game a lot more this week. It has its shortcomings nowadays, but it is still true to its core, and I really missed playing. It is a fun game, and I was a bit nostalgic for it today. - 2025, Monday, February 17th
 - I enjoyed the game a little less than last week. - 2025, Monday, February 24th
 - My session was skipped again today. It wasn't due to a lack of interest, I just didn't have time. - 2024, Monday, March 3rd to 2025, Monday, May 12th
+- I enjoyed the game this week, although I can't compare it to a previous session, as it has been too long. - 2025, Monday, May 19th
 
 </details>
 
-- I enjoyed the game this week, although I can't compare it to a previous session, as it has been too long. - 2025, Monday, May 19th
+- I enjoyed my session slightly less than last week this week. Gameplay was fun. - 2025, Monday, May 26th
 
 ---
 
@@ -1263,7 +1293,7 @@ Raffle 2x
 
 </details>
 
-- I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, May 19h
+- I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, May 19th to 2025, Monday, May 26th
 
 ***
 
@@ -1285,6 +1315,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, May 26th at 12:52 pm PST)`
+- **File version:** `2 (2025, Tuesday, May 27th at 02:19 pm PST)`
 
 ***
