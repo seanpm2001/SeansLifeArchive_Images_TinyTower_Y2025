@@ -582,7 +582,7 @@ Raffle 2x
 
 ## 2025, Monday, June 2nd
 
-- I continued gameplay for a tjhird consecutive week, playing relatively early in the morning, between 6:58 am and 8:49 am. I still felt like playing games after finishing this session, and played another long game afterwards (Modern Smurfs Village)
+- I continued gameplay for a third consecutive week, playing relatively early in the morning, between 6:58 am and 8:49 am. I still felt like playing games after finishing this session, and played another long game afterwards (Modern Smurfs Village)
 - I completed several quests, did several elevator trips, and began construction on my 205th level (another service level)
 - I worked on a monument today, but did I upgrade the stage on any moments.
 - I did not win any golden tickets this week
@@ -599,7 +599,19 @@ Raffle 2x
 
 </details>
 
-- I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, due to issues with my nighttime schedule. - 2025, Monday, June 16th
+- ~~I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, due to issues with my nighttime schedule.~~
+- I continued gameplay after a 2 week break, playing close to midnight, and a little after midnight, between 11:43 pm and 12:08 am.
+- I completed a few quests, did some elevator trips, but did not build any new levels
+- I did not work on any monuments today, as I forgot about them.
+- I did not win any golden tickets this week
+- I did not update the game this week. As far as I know, no updates are available.
+- I used several VIPs today
+- I did not do an airport run this week.
+- I did not unlock any new costumes or pets today
+- I upgraded 1 floor today.
+- I did not work on my house today.
+- The games daily/weekly quest system was present this week.
+- I eventually wrapped up and quit. I had an okay time playing this week. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 ---
 
@@ -615,12 +627,14 @@ Raffle 2x
 - My session was skipped today. - 2024, Monday, March 25th to 2024, Monday, June 3rd
 - An update was available today, but I decided not to get it yet. - 2024, Monday, June 10th to 2024, Monday, June 24th
 - There was an update available for the game, but I didn't install it yet. I was considering doing it this week, but I decided I wasn't ready yet. - 2024, Monday, July 1st
+- Due to how I played before and after midnight, I was able to collect daily bonuses for 2 separate days.
 - I updated the game this week, several things have changed. - 2024, Monday, July 8th
 - No updates were available this week, as far as I know (AFAIK) - 2024, Monday, July 15th to 2025, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+- No updates were available this week, as far as I know (AFAIK) - 2024, Monday, June 16th/2025, Tuesday, June 17th
 
 ---
 
@@ -651,10 +665,11 @@ Raffle 2x
 - I visited another players tower today to try and trigger the games night mode. I ended up having to restart the app to get night mode. - 2024, Monday, August 5th
 - I didn't do any friend visits today. - 2024, Monday, August 12th to 2025, Monday, May 26th
 - I didn't do any friend visits today. I have completely stopped doing this for now, as there doesn't seem to be much of a point, considering coin farms aren't fully effective (you don't receive 100,000 coins for delivering to an extremely high up floor (such as floor 3000) even if that is what it should give out) - 2024, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+- I didn't do any friend visits today. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 ---
 
@@ -686,10 +701,11 @@ Raffle 2x
 - My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 12th
 - I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, May 19th to 2025, Monday, May 26th/2025, Tuesday, May 27th
 - I did not earn any golden tickets today, although I entered the hourly raffle 3 times. - 2025, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+- I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 </details>
 
@@ -1202,10 +1218,22 @@ Raffle 2x
 - **Overall levels:** `205`
 
 - I began construction on my 205th level today, which is a service level. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+> **As of:** `2025, Monday, June 16th/2025, Tuesday, June 17th`
+
+- **Residential levels:** `102`
+- **Food levels:** `32`
+- **Service levels:** `18`
+- **Retail levels:** `28`
+- **Recreational levels:** `11`
+- **Creative levels:** `12`
+- **Lobby levels:** `2`
+- **Overall levels:** `205`
+
+- I did not build any levels this week. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 ---
 
@@ -1227,10 +1255,11 @@ Raffle 2x
 - My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
 - I began to customize my house today, adding furniture to it for the first time. The mechanics of the house are interesting. I added an office chair, a turtle table, and a laptop to it today, just to test it out. - 2025, Monday, May 19th
 - I visited the house today, but didn't do anything here. - 2025, Monday, May 26th to 2025, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+- I visited the house today, but didn't do anything here. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 ---
 
@@ -1251,10 +1280,11 @@ Raffle 2x
 - My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
 - I visited the airport today, starting a new job for this week. - 2025, Monday, May 19th to 2025, Monday, May 26th
 - I visited the airport today, starting a new job for this week, spending a lot of extra time waiting for the stock to come in, but eventually forked out a small amount of bux to hurry delivery. - 2025, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+- I did not do an airport run this week. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 ---
 
@@ -1298,11 +1328,12 @@ Raffle 2x
 - I enjoyed the game this week, although I can't compare it to a previous session, as it has been too long. - 2025, Monday, May 19th
 - I enjoyed my session slightly less than last week this week. Gameplay was fun. - 2025, Monday, May 26th
 - I enjoyed my session significantly more than last week this week. Gameplay was fun, and I had a desire to keep going. - 2025, Monday, June 2nd
+- My session was skipped today. I wanted to play, but I am currently not allowed to use my PDA after 11:00 pm, and I didn't have time in other parts of the day. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. I wanted to play, but I am currently not allowed to use my PDA after 11:00 pm, and I didn't have time in other parts of the day. - 2025, Monday, June 9th
-
+- I enjoyed my session less than last week this week. Gameplay was still enjoyable. - 2025, Monday, June 16th/2025, Tuesday, June 17th
+ 
 ---
 
 ## Monuments
@@ -1335,10 +1366,11 @@ Raffle 2x
 - I did not work on any monuments today, nor did I upgrade the stage on any of them. - 2025, Monday, February 24th
 - My session was skipped today. - 2025, Monday, March 3rd to 2025, Monday, May 19th
 - I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, May 19th to 2025, Monday, June 2nd
+- My session was skipped today. - 2025, Monday, June 9th
 
 </details>
 
-- My session was skipped today. - 2025, Monday, June 9th
+- I did not work on any monuments today, as I forgot about them. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 
 ***
 
@@ -1360,6 +1392,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, June 16th at 11:47 am PST)`
+- **File version:** `2 (2025, Tuesday, June 17th at 12:13 pm PST)`
 
 ***
