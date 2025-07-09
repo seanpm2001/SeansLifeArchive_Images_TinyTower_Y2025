@@ -654,7 +654,8 @@ Auto-elevator
 
 #### 2025, Monday, July 7th
 
-- I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, if issues come up with my nighttime schedule. My schedule is suffering greatly today, and gameplay is currently unlikely. - 2025, Monday, July 7th
+- ~~I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, if issues come up with my nighttime schedule. My schedule is suffering greatly today, and gameplay is currently unlikely.~~
+- I skipped gameplay tonight, due to a lack of time. - 2025, Monday, July 7th
 
 ---
 
@@ -677,7 +678,7 @@ Auto-elevator
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, Monday, June 30th/2025, Tuesday, July 1st
+- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, Monday, July 7th
 
 ---
 
@@ -714,7 +715,7 @@ Auto-elevator
 
 </details>
 
-- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st
+- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, July 7th
 
 ---
 
@@ -749,10 +750,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 9th
 - I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. - 2025, Monday, June 23rd
+- I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 
 </details>
 
-- I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, June 30th/2025, Tuesday, July 1st
+- My session was skipped today. - 2025, Monday, July 7th
 
 </details>
 
@@ -1281,8 +1283,6 @@ Auto-elevator
 - I did not build any levels this week. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. - 2025, Monday, June 23rd
 
-</details>
-
 > **As of:** `2025, Monday, June 30th/2025, Tuesday, July 1st`
 
 - **Residential levels:** `102`
@@ -1295,6 +1295,10 @@ Auto-elevator
 - **Overall levels:** `205`
 
 - I began construction on 2 new levels this week, both of them being service levels. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, June 30th/2025, Tuesday, July 1st
+
+</details>
+
+- My session was skipped today. - 2025, Monday, July 7th
 
 ---
 
@@ -1319,10 +1323,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 9th
 - I visited the house today, but didn't do anything here. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. - 2025, Monday, June 23rd
+- I visited the house today, but didn't do anything here. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 
 </details>
 
-- I visited the house today, but didn't do anything here. - 2025, Monday, June 30th/2025, Tuesday, July 1st
+- My session was skipped today. - 2025, Monday, July 7th
 
 ---
 
@@ -1346,10 +1351,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 9th
 - I did not do an airport run this week. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. - 2025, Monday, June 23rd
+- I visited the airport today, starting a new job for this week. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 
 </details>
 
-- I visited the airport today, starting a new job for this week. - 2025, Monday, June 30th/2025, Tuesday, July 1st
+- My session was skipped today. - 2025, Monday, July 7th
 
 ---
 
@@ -1396,10 +1402,11 @@ Auto-elevator
 - My session was skipped today. I wanted to play, but I am currently not allowed to use my PDA after 11:00 pm, and I didn't have time in other parts of the day. - 2025, Monday, June 9th
 - I enjoyed my session less than last week this week. Gameplay was still enjoyable. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. I wanted to play, but I am currently not allowed to use my PDA after 11:00 pm, and I didn't have time in other parts of the day. - 2025, Monday, June 23rd
+- I enjoyed my session more compared to last week.. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 
 </details>
 
-- I enjoyed my session more compared to last week.. - 2025, Monday, June 30th/2025, Tuesday, July 1st
+- My session was skipped today. I wanted to play, but I am currently not allowed to start a game on my PDA after 11:30 pm, and I didn't have time in other parts of the day. - 2025, Monday, July 7th
 
 ---
 
@@ -1436,10 +1443,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 9th
 - I did not work on any monuments today, as I forgot about them. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. - 2025, Monday, June 23rd
+- I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 
 </details>
 
-- I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, June 30th/2025, Tuesday, July 1st
+- My session was skipped today. - 2025, Monday, July 7th
 
 ***
 
@@ -1461,6 +1469,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, July 7th at 02:23 pm PST)`
+- **File version:** `2 (2025, Tuesday, July 8th at 01:06 pm PST)`
 
 ***
