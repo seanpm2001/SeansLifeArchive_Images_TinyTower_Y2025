@@ -3,7 +3,7 @@
 
 # Tiny Tower session
 
-## 2025, Monday, July 21st
+## 2025, Monday, July 28th
 
 ### General
 
@@ -664,7 +664,8 @@ Auto-elevator
 
 #### 2025, Monday, July 21st
 
-- I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, if issues come up with my nighttime schedule. - 2025, Monday, July 21st
+- ~~I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, if issues come up with my nighttime schedule.~~
+- I skipped gameplay again this week, due to a lack of time. - 2025, Monday, July 21st
 
 ---
 
@@ -687,7 +688,7 @@ Auto-elevator
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, Monday, July 14th
+- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, Monday, July 21st
 
 ---
 
@@ -724,7 +725,7 @@ Auto-elevator
 
 </details>
 
-- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, July 14th
+- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, July 21st
 
 ---
 
@@ -763,7 +764,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 14th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 21st
 
 </details>
 
@@ -1336,7 +1337,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 14th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 21st
 
 ---
 
@@ -1364,7 +1365,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 14th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 21st
 
 ---
 
@@ -1415,7 +1416,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. I wanted to play, but I am currently not allowed to start a game on my PDA after 11:30 pm, and I didn't have time in other parts of the day. - 2025, Monday, July 7th to 2025, Monday, July 14th
+- My session was skipped today. I wanted to play, but I am currently not allowed to start a game on my PDA after 11:30 pm, and I didn't have time in other parts of the day. - 2025, Monday, July 7th to 2025, Monday, July 21st
 
 ---
 
@@ -1456,7 +1457,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 14th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, July 21st
 
 ***
 
@@ -1478,6 +1479,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, July 21st at 01:27 pm PST)`
+- **File version:** `1 (2025, Tuesday, July 22nd at 01:41 pm PST)`
 
 ***
