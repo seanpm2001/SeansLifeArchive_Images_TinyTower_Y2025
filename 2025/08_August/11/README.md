@@ -679,7 +679,8 @@ Auto-elevator
 
 #### 2025, Monday, August 11th
 
-- ~~I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, if issues come up with my nighttime schedule. - 2025, Monday, August 11th
+- ~~I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not play today, if issues come up with my nighttime schedule.~~
+- I skipped gameplay again this week, due to a lack of time. - 2025, Monday, August 11th
 
 ---
 
@@ -702,7 +703,7 @@ Auto-elevator
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, Monday, August 4th
+- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, Monday, August 11th
 
 ---
 
@@ -739,7 +740,7 @@ Auto-elevator
 
 </details>
 
-- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, August 4th
+- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, August 11th
 
 ---
 
@@ -778,7 +779,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 4th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 11th
 
 </details>
 
@@ -1322,7 +1323,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 4th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 11th
 
 ---
 
@@ -1351,7 +1352,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 4th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 11th
 
 ---
 
@@ -1379,7 +1380,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 4th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 11th
 
 ---
 
@@ -1397,7 +1398,7 @@ Auto-elevator
 - I thought about it more this week. I am still unhappy with how monetized the game has gotten. - 2024, Monday, July 1st
 - I still feel the same as last week, becoming slightly more unhappy with the game. - 2024, Monday, July 8th
 - I felt more positive towards the game today, especially due to the night mode. - 2024, Monday, July 15th
-- I felt the same this week, the exclusion of many quests confirmed to me that the game is harder to play nowadays without ads or other Internet features. - 2024, Monday, July 22nd
+- I felt the same this week, the exclusion of many quests confirmed to me that the game is harder to play nowadays without ads or other Internet features. - 2024, Monday, July 22nd-
 - I felt the same this week, but enjoyed gameplay significantly more, as I was in a better mood. - 2024, Monday, July 29th
 - I felt the same this week, but enjoyed gameplay significantly less, as I was in a weaker mood. - 2024, Monday, August 5th to 2024, Monday, August 12th
 - I felt the same this week. - 2024, Monday, August 19th
@@ -1430,7 +1431,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. I wanted to play, but I am currently not allowed to start a game on my PDA after 11:30 pm, and I didn't have time in other parts of the day. - 2025, Monday, July 7th to 2025, Monday, August 4th
+- My session was skipped today. I wanted to play, but I am currently not allowed to start a game on my PDA after 11:30 pm, and I didn't have time in other parts of the day. - 2025, Monday, July 7th to 2025, Monday, August 11th
 
 ---
 
@@ -1471,7 +1472,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 4th
+- My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 11th
 
 ***
 
@@ -1493,6 +1494,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, August 11th at 03:17 pm PST)`
+- **File version:** `2 (2025, Tuesday, August 12th at 01:11 pm PST)`
 
 ***
