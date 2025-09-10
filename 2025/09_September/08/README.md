@@ -709,7 +709,10 @@ Auto-elevator
 
 </details>
 
-- I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not have the time, if issues come up with my nighttime schedule. - 2025, Monday, September 8th
+#### 2025, Monday, September 8th
+
+- ~~I did not play yet today. I may play after 10:00 pm or 11:00 pm, but I might not have the time, if issues come up with my nighttime schedule.~~
+- I skipped gameplay again this week, due to a lack of time. - 2025, Monday, September 8th
 
 ---
 
@@ -732,7 +735,7 @@ Auto-elevator
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, September 1st
+- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, September 8th
 
 ---
 
@@ -766,10 +769,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 9th
 - I didn't do any friend visits today. - 2025, Monday, June 16th/2025, Tuesday, June 17th
 - My session was skipped today. - 2025, Monday, June 23rd
+- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, September 1st
 
 </details>
 
-- I didn't do any friend visits today. - 2025, Monday, June 30th/2025, Tuesday, July 1st to 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 ---
 
@@ -806,10 +810,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 23rd
 - I did not earn any golden tickets today, although I entered the hourly raffle 2 times. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 - My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 25th
+- I did not win any golden tickets this week from the raffle, as I didn't have an Internet connection, but I won 1 golden ticket by upgrading the stage of a monument. - 2025, Monday, September 1st
 
 </details>
 
-- I did not win any golden tickets this week from the raffle, as I didn't have an Internet connection, but I won 1 golden ticket by upgrading the stage of a monument. - 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 </details>
 
@@ -1351,10 +1356,11 @@ Auto-elevator
 
 - I began construction on 2 new levels this week, both of them being service levels. I have built all of the residential levels in the game (102) along with all of the food levels (32) - 2025, Monday, June 30th/2025, Tuesday, July 1st
 - My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 25th
+- I played today, but could not afford to build any new levels. - 2025, Monday, September 1st
 
 </details>
 
-- I played today, but could not afford to build any new levels. - 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 ---
 
@@ -1381,10 +1387,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 23rd
 - I visited the house today, but didn't do anything here. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 - My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 25th
+- I visited the house today, but didn't do anything here. - 2025, Monday, September 1st
 
 </details>
 
-- I visited the house today, but didn't do anything here. - 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 ---
 
@@ -1410,10 +1417,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 23rd
 - I visited the airport today, starting a new job for this week. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 - My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 25th
+- I visited the airport today, starting a new job for this week. - 2025, Monday, September 1st
 
 </details>
 
-- I visited the airport today, starting a new job for this week. - 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 ---
 
@@ -1462,10 +1470,11 @@ Auto-elevator
 - My session was skipped today. I wanted to play, but I am currently not allowed to use my PDA after 11:00 pm, and I didn't have time in other parts of the day. - 2025, Monday, June 23rd
 - I enjoyed my session more compared to last week. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 - My session was skipped today. I wanted to play, but I am currently not allowed to start a game on my PDA after 11:30 pm, and I didn't have time in other parts of the day. - 2025, Monday, July 7th to 2025, Monday, August 25th
+- I enjoyed my session more compared to last week. - 2025, Monday, September 1st
 
 </details>
 
-- I enjoyed my session more compared to last week. - 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 ---
 
@@ -1504,10 +1513,11 @@ Auto-elevator
 - My session was skipped today. - 2025, Monday, June 23rd
 - I worked on some monuments today, but couldn't upgrade the stage on any of them. - 2025, Monday, June 30th/2025, Tuesday, July 1st
 - My session was skipped today. - 2025, Monday, July 7th to 2025, Monday, August 25th
+- I worked on some monuments today, and upgraded the stage on one of them. - 2025, Monday, September 1st
 
 </details>
 
-- I worked on some monuments today, and upgraded the stage on one of them. - 2025, Monday, September 1st
+- My session was skipped today. - 2025, Monday, September 8th
 
 ***
 
@@ -1529,6 +1539,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, September 8th at 04:36 pm PST)`
+- **File version:** `2 (2025, Tuesday, September 9th at 05:57 pm PST)`
 
 ***
