@@ -721,7 +721,8 @@ Auto-elevator
 
 #### 2025, Monday, September 22nd
 
-- I did not play yet today. I could have played in the morning, as I was having a hard tiume waking up, but I woke up, and needed to get work done. I still have an interest in playing. I may play after 10:00 pm/after 11:00 pm, but I might not have the time, if issues come up with my nighttime schedule.  - 2025, Monday, September 22nd
+- ~~I did not play yet today. I could have played in the morning, as I was having a hard tiume waking up, but I woke up, and needed to get work done. I still have an interest in playing. I may play after 10:00 pm/after 11:00 pm, but I might not have the time, if issues come up with my nighttime schedule.~~
+- I skipped gameplay again this week, due to a lack of time. - 2025, Monday, September 22nd
 
 ---
 
@@ -1548,6 +1549,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** `1 (2025, Monday, September 22nd at 02:32 pm PST)`
+- **File version:** `2 (2025, Tuesday, September 23rd at 05:22 pm PST)`
 
 ***
