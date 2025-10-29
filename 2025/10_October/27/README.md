@@ -735,7 +735,8 @@ Auto-elevator
 
 #### Monday, October 27th
 
-- I will likely have to skip my session today due to a lack of time, and won't make it for any sessions where the Halloween theme is present this year. 2025, Monday, October 27th
+- I will likely have to skip my session today due to a lack of time, and won't make it for any sessions where the Halloween theme is present this year.
+- My session was ultimately skipped this year. - 2025, Monday, October 27th
 
 ---
 
@@ -758,7 +759,7 @@ Auto-elevator
 
 </details>
 
-- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, October 20th
+- No updates were available this week, as far as I know (AFAIK) - 2025, Monday, June 16th/2025, Tuesday, June 23rd to 2025, October 27th
 
 ---
 
@@ -796,7 +797,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 20th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 ---
 
@@ -837,7 +838,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 20th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 </details>
 
@@ -1383,7 +1384,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 13th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 ---
 
@@ -1414,7 +1415,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 13th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 ---
 
@@ -1444,7 +1445,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 20th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 ---
 
@@ -1497,7 +1498,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 20th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 ---
 
@@ -1540,7 +1541,7 @@ Auto-elevator
 
 </details>
 
-- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 20th
+- My session was skipped today. - 2025, Monday, September 8th to 2025, Monday, October 27th
 
 ***
 
@@ -1562,6 +1563,6 @@ The menu should be expanded to have more than 1 page, and continue to function s
 
 ## File info
 
-- **File version:** 1 (2025, Monday, October 27th at 04:33 pm PST)`
+- **File version:** `2 (2025, Tuesdau, October 28th at 06:21 pm PST)`
 
 ***
